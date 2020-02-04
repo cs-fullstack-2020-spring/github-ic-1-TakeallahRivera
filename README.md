@@ -1,4 +1,4 @@
 # Learn how to use git
 Change the text below by adding your name.
 
-Hello World. My name is Takeallah Rivera.
+GOodbye World. My name is Takeallah Rivera.
